@@ -1,0 +1,38 @@
+.riyad{
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #0077b6;
+    display: block;
+    justify-content: center;
+    margin: auto;
+}
+
+.jeddah{
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #0077b6;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.abha{
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #0077b6;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.yonbo{
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #0077b6;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+}
